@@ -1,6 +1,6 @@
-# Hi, I'm May 🙋‍♀️
+# Hi, I'm May 👋
 
-B.Sc. Computer Science graduate (Software and Systems Engineering), currently looking for a full-stack junior developer role.
+🎓 B.Sc. Computer Science graduate (Software and Systems Engineering), currently looking for a full-stack junior developer role.
 
 
 ## Featured projects
